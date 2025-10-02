@@ -1,0 +1,62 @@
+[
+  {
+    "supplier_id": 1,
+    "supplier_name": "TechWorld",
+    "city": "Bangalore",
+    "country": "India"
+  },
+  {
+    "supplier_id": 2,
+    "supplier_name": "ElectroHub",
+    "city": "New York",
+    "country": "USA"
+  },
+  {
+    "supplier_id": 3,
+    "supplier_name": "StyleStore",
+    "city": "London",
+    "country": "UK"
+  },
+  {
+    "supplier_id": 4,
+    "supplier_name": "HomeAppliances Co",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "supplier_id": 5,
+    "supplier_name": "FashionFiesta",
+    "city": "Milan",
+    "country": "Italy"
+  },
+  {
+    "supplier_id": 6,
+    "supplier_name": "DigitalMart",
+    "city": "Shanghai",
+    "country": "China"
+  },
+  {
+    "supplier_id": 7,
+    "supplier_name": "UrbanStyle",
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  {
+    "supplier_id": 8,
+    "supplier_name": "QuickTech",
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  {
+    "supplier_id": 9,
+    "supplier_name": "SmartHome Ltd",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "supplier_id": 10,
+    "supplier_name": "MegaStore",
+    "city": "Sydney",
+    "country": "Australia"
+  }
+]
